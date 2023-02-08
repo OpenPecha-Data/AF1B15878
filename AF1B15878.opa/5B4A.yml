@@ -1,0 +1,7 @@
+segment_sources:
+  I4FF972EF:
+    type: origin_type
+    relation: translation
+    lang: sa
+    base: 983B
+segment_pairs: {}
